@@ -1,15 +1,15 @@
 
 language= [
     ["Assamese", 52],
-    ["Bengali", 50],
+    ["Odia", 50],
     ["Gujarati", 48],
     ["Kannada", 49],
     ["Kashmiri", 117], 
     ["Konkani", 46],    
     ["Malayalam", 53],
-    ["Marathi", 50],
     ["Nepali", 50],
-    ["Odia", 50],
+    ["Marathi", 50],
+    ["Bengali", 50],
     ["Punjabi", 41],
     ["Sanskrit", 50],
     ["Tamil", 247],  
